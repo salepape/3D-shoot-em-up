@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ShootemUp.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{98C6C2E6-EF61-41E6-A011-9703BE680F34}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ShootemUp.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ShootemUpEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{C964B28C-9629-48BD-890F-5F19E6A82F9A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ShootemUp">
+      <UniqueIdentifier>{EDF971B6-7DC3-4FDA-B8F8-B5FB781A4A2D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ShootemUp\ShootemUp.Build.cs">
+      <Filter>Source\ShootemUp</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ShootemUp\ShootemUp.cpp">
+      <Filter>Source\ShootemUp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShootemUp\ShootemUp.h">
+      <Filter>Source\ShootemUp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ShootemUp\ShootemUpCharacter.cpp">
+      <Filter>Source\ShootemUp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShootemUp\ShootemUpCharacter.h">
+      <Filter>Source\ShootemUp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ShootemUp\ShootemUpGameMode.cpp">
+      <Filter>Source\ShootemUp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShootemUp\ShootemUpGameMode.h">
+      <Filter>Source\ShootemUp</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\ShootemUp\ShootemUpProjectile.h">
+      <Filter>Source\ShootemUp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ShootemUp\ShootemUpEnemyAI.h">
+      <Filter>Source\ShootemUp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ShootemUp\ShootemUpEnemyCharacter.h">
+      <Filter>Source\ShootemUp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ShootemUp\BTService_FindPlayer.h">
+      <Filter>Source\ShootemUp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ShootemUp\BTTask_MoveToPlayer.h">
+      <Filter>Source\ShootemUp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ShootemUp\ShootemUpEnemySpawn.h">
+      <Filter>Source\ShootemUp</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\ShootemUp\ShootemUpProjectile.cpp">
+      <Filter>Source\ShootemUp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ShootemUp\ShootemUpEnemyAI.cpp">
+      <Filter>Source\ShootemUp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ShootemUp\ShootemUpEnemyCharacter.cpp">
+      <Filter>Source\ShootemUp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ShootemUp\BTService_FindPlayer.cpp">
+      <Filter>Source\ShootemUp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ShootemUp\BTTask_MoveToPlayer.cpp">
+      <Filter>Source\ShootemUp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ShootemUp\ShootemUpEnemySpawn.cpp">
+      <Filter>Source\ShootemUp</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

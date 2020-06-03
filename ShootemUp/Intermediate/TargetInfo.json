@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ShootemUp",
+			"Path": "C:\\Users\\Sandy-PC\\Downloads\\Tests code offres emploi\\9 - Tindalos Interactive (Paris)\\ShootemUp\\Source\\ShootemUp.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ShootemUpEditor",
+			"Path": "C:\\Users\\Sandy-PC\\Downloads\\Tests code offres emploi\\9 - Tindalos Interactive (Paris)\\ShootemUp\\Source\\ShootemUpEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
